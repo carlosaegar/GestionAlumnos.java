@@ -1,0 +1,7 @@
+--- RESULTADOS ---
+María - Media: 9,10 (Aprobado)
+Ana - Media: 8,20 (Aprobado)
+Juan - Media: 7,15 (Aprobado)
+Luis - Media: 4,90 (Suspenso)
+
+Mejor alumno: María
